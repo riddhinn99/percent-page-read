@@ -1,0 +1,21 @@
+
+div{
+
+        position: absolute;
+        width: 80px;
+        height: 25px;
+        border-radius: 10px;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 14px;
+        font-family: "Courier New", Courier, monospace;
+        letter-spacing: 1.5px;
+        z-index: 1000;
+        top: 0px;
+        right: 5px;
+        background-color: transparent;
+        color: #000;
+        font-weight: bold;
+    
+}
+
